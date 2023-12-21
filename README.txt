@@ -1,4 +1,4 @@
-These files can analyse DATA.root that are recorded in LHC a the ALICE experiment. 
+These files can analyse DATA.root that are recorded in LHC at the ALICE experiment. 
 If you really want to realize this analysis then contact me and I will provide the DATA that is needed.
 To realize the Classification of the models you will also need the simulation SIGNAL.root that is generated with a MonteCarlo simulation.
 
